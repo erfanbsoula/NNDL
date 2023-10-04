@@ -2,7 +2,7 @@
 
 ### 1. Variational AutoEncoder
 
-In this section, we implemented and trained a Variational AutoEncoder network and compared conducted a comparative analysis of its dimension reduction performance in contrast to traditional dimension reduction methods, including AutoEncoders, Isomap, and PCA. The procedure was based on a research article titled ["Empirical Comparison between Autoencoders and Traditional Dimensionality Reduction Methods"](https://ieeexplore.ieee.org/abstract/document/8791727). All methods were evaluated based on their impact on KNN classifier accuracy within their respective latent spaces.
+In this section, we implemented and trained a Variational AutoEncoder network and conducted a comparative analysis of its dimension reduction performance in contrast to traditional dimension reduction methods, including AutoEncoders, Isomap, and PCA. The procedure was based on a research article titled ["Empirical Comparison between Autoencoders and Traditional Dimensionality Reduction Methods"](https://ieeexplore.ieee.org/abstract/document/8791727). All methods were evaluated based on their impact on KNN classifier accuracy within their respective latent spaces.
 
 ### 2. Conditional Deep Convolutional GAN
 
